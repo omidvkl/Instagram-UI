@@ -13,4 +13,4 @@ This project is for educational purposes and demonstrates the use of Flutter wid
 
 Note: This project does not interact with Instagram's backend, and it doesn't have any functionality to handle real user data.
 
-![profile_page](https://github.com/omidvkl/Instagram-UI/assets/117024895/b904c011-40ba-48ec-8004-f89f149719b9) ![home_page](https://github.com/omidvkl/Instagram-UI/assets/117024895/9f01e6b6-8eb3-43c5-852d-3554fe1955b9) ![search_page](https://github.com/omidvkl/Instagram-UI/assets/117024895/93bf4a7f-f5a4-4f5b-9089-fdeccb08b6c5)
+![Untitled-1](https://github.com/omidvkl/Instagram-UI/assets/117024895/5ee67ee0-b108-4b97-8d5b-31692502ab4f)
