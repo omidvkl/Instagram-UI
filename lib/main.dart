@@ -25,6 +25,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       title: 'Instagram Profile UI',
       theme: ThemeData(
+
         buttonTheme: const ButtonThemeData(
           buttonColor: Colors.blue,
         ),
@@ -62,7 +63,7 @@ class _MyAppState extends State<MyApp> {
           ),
         ),
       ),
-      home:  ProfilePage(),
+      home:  bottomNavigation(),
     );
   }
 }

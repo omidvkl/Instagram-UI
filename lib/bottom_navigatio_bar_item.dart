@@ -6,12 +6,12 @@ import 'package:instagram_ui/ui/search_page.dart';
 import 'package:instagram_ui/ui/upload_page.dart';
 
 
-class ProfilePage extends StatefulWidget {
+class bottomNavigation extends StatefulWidget {
   @override
-  _ProfilePageState createState() => _ProfilePageState();
+  _bottomNavigationState createState() => _bottomNavigationState();
 }
 
-class _ProfilePageState extends State<ProfilePage> {
+class _bottomNavigationState extends State<bottomNavigation> {
   int _selectedIndex = 0;
 
   void _onItemTapped(int index) {
@@ -53,7 +53,7 @@ class _ProfilePageState extends State<ProfilePage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.account_box),
-            label: 'Account',
+            label: 'Profile',
           ),
         ],
         currentIndex: _selectedIndex,
